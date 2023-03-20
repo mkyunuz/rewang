@@ -1,0 +1,19 @@
+{
+    "name": "mkyunuz/rewang",
+    "description": "Helper string dan array",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Mkyunuz\\Rewang\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Yunus",
+            "email": "mkhyunus@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
